@@ -21,4 +21,4 @@ This project features an interactive Power BI dashboard designed to provide acti
 - Integrated data model for enhanced performance and flexibility.
 
 ## Contact
-For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mario-filizzola-58798a206/) or via [email](mailto:filizzolamario@gmail.com).
+For more details or collaboration opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mariofilizzola/) or via [email](mailto:filizzolamario@gmail.com).
